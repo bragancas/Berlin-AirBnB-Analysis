@@ -20,17 +20,17 @@ The data was created by Murray Cox and can be found on his website [*insideairbn
 
 ## Notebook preview
 <p align="center">
-<img src="https://github.com/bragancas/texttest/blob/master/Price per room.png"/>
+<img src="https://github.com/bragancas/Berlin-AirBnB-Analysis/blob/master/Price%20per%20room.png"/>
 </p>
 
 <p align="center">
-<img height="400" width="600" align="center" src="https://github.com/bragancas/texttest/blob/master/Room types vs location.jpeg"/>
+<img height="400" width="600" align="center" src="https://github.com/bragancas/Berlin-AirBnB-Analysis/blob/master/Room%20types%20vs%20location.jpeg"/>
 </p>
 
 <p align="center">
-<img height="400" width="600" align="center" src="https://github.com/bragancas/texttest/blob/master/HP location vs price .jpeg"/>
+<img height="400" width="600" align="center" src="https://github.com/bragancas/Berlin-AirBnB-Analysis/blob/master/HP%20location%20vs%20price%20.jpeg"/>
 </p>
 
 <p align="center">
-<img height="423" width="563" align="center" src="https://github.com/bragancas/texttest/blob/master/Wordcloud reviews.png"/>
+<img height="423" width="563" align="center" src="https://github.com/bragancas/Berlin-AirBnB-Analysis/blob/master/Wordcloud%20reviews.png"/>
 </p>
